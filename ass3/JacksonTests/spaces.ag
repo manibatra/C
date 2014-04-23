@@ -1,0 +1,6 @@
+#These agents have spaces after them
+12 9 a ./simple N   
+9 3 b ./waller S 
+12 14 c ./fromfile JacksonTests/ff21.ain 
+14 10 d ./slow 
+19 2 + ./simple S 

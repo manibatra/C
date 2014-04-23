@@ -1,0 +1,5 @@
+4 7 + ./fromfile JacksonTests/s21.ain
+8 14 - ./slow2
+10 10 S ./slow
+19 5 L ./simple E
+17 8 W ./waller W

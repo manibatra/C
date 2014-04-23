@@ -1,0 +1,26 @@
+4|empty|handlercomm.out|empty|||!./simple E < maxtests/agenttoofewids.in
+4|empty|handlercomm.out|empty|||!./fromfile JacksonTests/ff1.ain < maxtests/agenttoofewids.in
+4|empty|handlercomm.out|empty|||!./slow < maxtests/agenttoofewids.in
+4|empty|handlercomm.out|empty|||!./slow2 < maxtests/agenttoofewids.in
+4|empty|handlercomm.out|empty|||!./waller E < maxtests/agenttoofewids.in
+
+4|empty|handlercomm.out|empty|||!./simple E < maxtests/agenttoomanyids.in
+4|empty|handlercomm.out|empty|||!./fromfile JacksonTests/ff1.ain < maxtests/agenttoomanyids.in
+4|empty|handlercomm.out|empty|||!./slow < maxtests/agenttoomanyids.in
+4|empty|handlercomm.out|empty|||!./slow2 < maxtests/agenttoomanyids.in
+4|empty|handlercomm.out|empty|||!./waller E < maxtests/agenttoomanyids.in
+
+4|empty|handlercomm.out|empty|||!./simple E < maxtests/agentcountnan.in
+4|empty|handlercomm.out|empty|||!./fromfile JacksonTests/ff1.ain < maxtests/agentcountnan.in
+4|empty|handlercomm.out|empty|||!./slow < maxtests/agentcountnan.in
+4|empty|handlercomm.out|empty|||!./slow2 < maxtests/agentcountnan.in
+4|empty|handlercomm.out|empty|||!./waller E < maxtests/agentcountnan.in
+
+4|empty|lotsofagents.out|empty|||!./simple E < maxtests/agentlotsofagents.in
+
+4|empty|handlercomm.out|empty|||!./simple E < maxtests/agentmapinvalidchar.in
+
+10|empty|longname.out|steps.err|||JacksonTests/map1.map 10 maxtests/reallylongagentfilenamereallylongagentfilenamereallylongagentfilenamereallylongagentfilename.ag
+
+10|empty|longffname.out|steps.err|||JacksonTests/map1.map 10 maxtests/fromfilelongname.ag
+
